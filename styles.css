@@ -1,0 +1,67 @@
+body{
+
+    background-color: peachpuff;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1{
+    color: gray;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+a{
+    color: slateblue;
+}
+
+nav ul li{
+    list-style-type: none ;
+    display: inline;
+    margin-left: 10px;
+    margin-right: 10px;
+    color: papayawhip;
+
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: olive;
+}
+img{
+    border-radius: 30px;
+}
+
+div{
+    position: relative;
+    padding-bottom: 40%;
+}
+table th td {
+    border: 1px solid honeydew;
+    border-collapse: collapse;
+}
+tr{
+    background-color: palegoldenrod;
+}
+th td{
+    text-align: top;
+    padding: 5px;
+    color: purple;
+    vertical-align: top;
+}
+iframe{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+attractoins{
+
+    h1{
+        text-align: bottom;
+    }
+    image{
+        padding-top: 10px; 
+    }
+}
